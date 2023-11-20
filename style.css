@@ -1,14 +1,25 @@
-#header {
+/*#header {
   position: absolute;
   top: 0;
   left: 0;
 }
+*/
 
-
-#header h1 {
-  font-size: 32px;
-}
+/* Style all P tags */
 
 p {
   font-size: 12px;
+  color: blue;
+}
+
+/* 
+#header p {
+  font-size: 24px;
+}
+*/
+
+/* Style all header tags */
+
+h1 {
+  font-size: 44px;
 }
